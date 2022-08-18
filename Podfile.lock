@@ -1,0 +1,25 @@
+PODS:
+  - HyperKYC (0.2.3):
+    - HyperSnapSDK
+  - HyperSnapSDK (4.1.4)
+  - UnumIDWebWallet (1.0.0)
+
+DEPENDENCIES:
+  - HyperKYC
+  - UnumIDWebWallet (= 1.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - UnumIDWebWallet
+  trunk:
+    - HyperKYC
+    - HyperSnapSDK
+
+SPEC CHECKSUMS:
+  HyperKYC: 969a73fd47bc480fadf76d8abc62bff31e08261f
+  HyperSnapSDK: 59d6985697d46dd5bb8791aadc0f25b4199383f6
+  UnumIDWebWallet: d96c2f95231737f3731b0810470adf975b856dff
+
+PODFILE CHECKSUM: c58aea8665c833df121e26d5aab35359b34893bd
+
+COCOAPODS: 1.11.3
