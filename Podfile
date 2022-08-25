@@ -8,7 +8,7 @@ target 'Sample' do
   use_frameworks!
 
   pod 'HyperKYC'
-  pod 'UnumIDWebWallet', '1.0.0'
+  pod 'UnumIDWebWallet', '~> 1.0.1'
 end
 
 target 'Sample-UIKit' do
@@ -16,5 +16,5 @@ target 'Sample-UIKit' do
   use_frameworks!
 
   pod 'HyperKYC'
-  pod 'UnumIDWebWallet', '1.0.0'
+  pod 'UnumIDWebWallet', '~> 1.0.1'
 end
